@@ -55,4 +55,15 @@
         android:layout_marginTop="92dp"
         android:text="RadioButton" />
 
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/radioButton1"
+        android:layout_alignLeft="@+id/editText1"
+        android:layout_marginBottom="33dp"
+        android:layout_marginLeft="49dp"
+        android:text="Large Text"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
 </RelativeLayout>
