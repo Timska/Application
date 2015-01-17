@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">Application</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="pozdrav">Pozdrav do Marija i Kirca</string>
     <string name="action_settings">Settings</string>
 
 </resources>
