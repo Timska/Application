@@ -13,12 +13,22 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/pozdrav" />
-
+    
     <Button
         android:id="@+id/button1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@id/textView"
         android:text="@string/btnText" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/button1"
+        android:layout_marginTop="55dp"
+        android:layout_toRightOf="@+id/button1"
+        android:text="Tekst za testiranje"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
 
 </RelativeLayout>
